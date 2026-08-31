@@ -69,9 +69,10 @@ Coloque-os em `data/` (ou defina `HI4PI_DATA_DIR` / `--data-dir`) e rode:
 python3 scripts/extract_hi4pi_sightlines.py
 ```
 
-Saídas: `figuras/espectros_hi4pi.pdf` e `figuras/hi4pi_numeros.tex`. Os valores
-publicados estão versionados neste último arquivo e servem de referência para
-conferir a reprodução.
+Saídas: `figuras/espectros_hi4pi.pdf` e `figuras/hi4pi_numeros.tex`.
+O PDF versionado em `figuras/espectros_hi4pi.pdf` é o gabarito da Figura 5
+(área hachurada = $\int T_B\,dv$; recuadro = $N_{\mathrm{HI}}$); as macros em
+`figuras/hi4pi_numeros.tex` são o gabarito numérico da Tabela 2.
 
 ## Convenção de velocidade
 

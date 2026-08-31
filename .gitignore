@@ -19,7 +19,9 @@ data/*.FITS
 escrita_v2026.pdf
 escrita_v2.pdf
 
-# Figuras geradas e rasters de submissão
+# Esquemas do texto e rasters de submissão.
+# Só entra o gabarito gerado pelo código (espectros / N_HI).
 figuras/*.png
-figuras/*.pdf
 figuras/*_vetor.pdf
+figuras/*.pdf
+!figuras/espectros_hi4pi.pdf
