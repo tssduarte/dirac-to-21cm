@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Se usar estes roteiros, cite o artigo e este repositório."
+title: "dirac-to-21cm"
+abstract: >-
+  Scripts that reproduce the numerical results and the HI4PI 21 cm
+  figure of the article "From the Dirac equation to the 21 cm line".
+  Spectral axis in the radio convention; N_HI = C ∫ T_B dv.
+type: software
+url: "https://github.com/tssduarte/dirac-to-21cm"
+repository-code: "https://github.com/tssduarte/dirac-to-21cm"
+authors:
+  - family-names: "da Costa Neto"
+    given-names: "José Crisanto"
+  - family-names: "Duarte"
+    given-names: "Tharcísyo Sá e Sousa"
+  - family-names: "de Oliveira Junior"
+    given-names: "Gilson Francisco"
+  - family-names: "da Silva"
+    given-names: "Edson Otoniel"
+  - family-names: "da Costa"
+    given-names: "Jefferson Soares"
+  - family-names: "Coelho"
+    given-names: "Hugo Rodrigues"
+  - family-names: "Oliveira"
+    given-names: "Ricardo G."
+  - family-names: "Correia"
+    given-names: "Caio Fábio Teixeira"

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Cubos HI4PI (públicos no CDS; ~250 MB cada)
+data/*.fits
+data/*.fits.gz
+data/*.FITS
+
+# Compilação local do manuscrito (não faz parte deste repositório)
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+escrita_v2026.pdf
+escrita_v2.pdf
+
+# Figuras geradas e rasters de submissão
+figuras/*.png
+figuras/*.pdf
+figuras/*_vetor.pdf
